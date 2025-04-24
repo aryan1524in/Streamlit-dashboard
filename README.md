@@ -1,6 +1,6 @@
 # 📊 Streamlit Dashboard: Interactive Data Visualization
 
-## 🔗 Live Project: [Click here to open](https://project-appdashboard-nzxanxxdwwpzewudewe87u.streamlit.app/)
+## 🔗 Live Project: [Click here to open](https://aryan1524in-streamlit-dashboard-main-ao3yyq.streamlit.app/)
 
 ![Dashboard Preview](https://github.com/aryan1524in/Streamlit-dashboard/blob/main/Streamlit_dashboard%20(2).png?raw=true)
 
