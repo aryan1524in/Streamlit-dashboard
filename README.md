@@ -2,7 +2,7 @@
 
 ## 🔗 Live Project: [Click here to open](https://project-appdashboard-nzxanxxdwwpzewudewe87u.streamlit.app/)
 
-![Dashboard Preview](https://github.com/JANHVI-18/Project-Streamlit_Dashboard/blob/main/Streamlit_dashboard%20(2).png)
+![Dashboard Preview](https://github.com/aryan1524in/Streamlit-dashboard/blob/main/Streamlit_dashboard%20(2).png?raw=true)
 
 ## 📌 Overview
 The **Streamlit Dashboard** is a web-based data visualization tool built using **Streamlit, Pandas, and Matplotlib**. It enables users to explore datasets interactively, generate insightful visualizations, and gain meaningful insights. The application is **containerized with Docker**, ensuring easy deployment and scalability.
